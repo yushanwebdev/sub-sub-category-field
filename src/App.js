@@ -1,9 +1,9 @@
-import FreeSoloCreateOptionDialog from './SubSubCategory';
+import SubSubCategory from "./SubSubCategory";
+
+import "./App.css";
 
 function App() {
-  return (
-    <FreeSoloCreateOptionDialog />
-  );
+  return <SubSubCategory />;
 }
 
 export default App;
